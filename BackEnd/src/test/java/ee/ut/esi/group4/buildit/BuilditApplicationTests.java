@@ -1,0 +1,16 @@
+package ee.ut.esi.group4.buildit;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class BuilditApplicationTests {
+
+    @Test
+    public void contextLoads() {
+    }
+
+}
